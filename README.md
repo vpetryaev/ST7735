@@ -10,3 +10,5 @@ This project contains:
 3. AVRcanoid - sample game, based on old Arcanoid game. Proposed as sample and how to using ST7735 libraries.
 
 If you want to build this project using Arduino IDE, rename ST7735.c to ST7735.ino
+
+https://www.youtube.com/watch?v=4xZhCO-KNBQ
